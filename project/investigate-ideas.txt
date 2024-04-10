@@ -1,0 +1,2 @@
+movie_retrieval: 
+- Are there any genre that are very popular and some that aren't. What about the movies that don't have a genre listed, can we find out the genre from analysing the 'overview' text. Is there any specific genre that is not getting any feedback?
