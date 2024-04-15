@@ -1,3 +1,4 @@
 data_retrieval: 
 - Are there any genre that are very popular and some that aren't. What about the movies that don't have a genre listed, can we find out the genre from analysing the 'overview' text. Is there any specific genre that is not getting any feedback?
 - How often is a character name played? By different people and by the same people?
+- Any upcomming movies (status = "In Production" | "Planned") which are especially worth checking out based on cast or company?
